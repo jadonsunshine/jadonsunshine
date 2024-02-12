@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jadonsunshine
+- 👀 I’m a front end development
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning solidity..
 - 💞️ I’m looking to collaborate on free work as an intern...
